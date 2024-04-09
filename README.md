@@ -21,7 +21,7 @@ The package generates the following outputs:
 - **Thrust vs. Time**: Detailed thrust information over time.
   ![code - Copy (3)](https://github.com/vhemmati/Quadcopter-Mission/assets/93438814/150d43cd-4d48-4241-82fb-d877bdd09bb9)
 - **Torque vs. Time**: Detailed torque information over time.
-
+![code - Copy (4)](https://github.com/vhemmati/Quadcopter-Mission/assets/93438814/1de3903e-51bd-43ca-8790-71a5e3132322)
 ## Results Visualization
 
 There are two scripts included for visualizing the results:
