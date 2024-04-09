@@ -8,9 +8,7 @@ This Python package calculates a feasible 3D trajectory and the control commands
 
 Set the initial (Xi and Vi) and final (Xf and Vf) positions (X) and velocities (V) in `Main_SetInput.py` as shown below:
 
-```python
-# Insert the inputs setup code from Main_SetInput.py here
-```
+![code](https://github.com/vhemmati/Quadcopter-Mission/assets/93438814/db0bb244-8412-4f41-8e35-4c2dc53f4196)
 
 ## Outputs
 
