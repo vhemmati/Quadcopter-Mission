@@ -27,6 +27,7 @@ The package generates the following outputs:
 There are two scripts included for visualizing the results:
 
 - `Plot_Path_Freez.py`: Shows the entire motion in one plot.
+  ![code - Copy (5)](https://github.com/vhemmati/Quadcopter-Mission/assets/93438814/9be79a30-27d3-4e26-b0cd-6e043a5b9295)
 - `Plot_Path.py`: Provides an animation of the mission.
 
 ## How to Use
