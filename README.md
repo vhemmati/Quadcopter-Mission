@@ -15,6 +15,7 @@ Set the initial (Xi and Vi) and final (Xf and Vf) positions (X) and velocities (
 The package generates the following outputs:
 
 - **Feasible Trajectory**: A trajectory that respects mission limits.
+  ![code - Copy](https://github.com/vhemmati/Quadcopter-Mission/assets/93438814/9237e182-4278-4c43-ab9d-79fa9d454ff5)
 - **Angular Position vs. Time**: Outputs are provided at each 0.1 second interval.
 - **Thrust vs. Time**: Detailed thrust information over time.
 - **Torque vs. Time**: Detailed torque information over time.
